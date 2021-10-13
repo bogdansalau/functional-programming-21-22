@@ -2,7 +2,7 @@
 
 # Grading
 
--- to be announced
+https://moodle.cs.utcluj.ro/mod/page/view.php?id=31297
 
 ### Contact
 
